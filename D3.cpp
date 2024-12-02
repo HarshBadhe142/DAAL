@@ -1,7 +1,7 @@
-// Problem Statement N0. 12
+// Problem Statement No. 12
 // Implement program to print all subsets of a given Set or Array.
 // Statement: Given a set of positive integers, find all its subsets.
-// Input
+
 
 #include <iostream>
 #include <vector>

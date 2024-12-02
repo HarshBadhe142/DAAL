@@ -1,3 +1,4 @@
+// Problem Statement No.03
 // Implement a problem of smallest number with at least n trailing 0s in factorial.
 // Given a number of n. The task is to find the smallest number whose factorial contains at least n trailing 0s.
 // Input: n=1       Output: 5
