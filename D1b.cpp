@@ -6,6 +6,8 @@
 // Input S = {1, 2, 2}
 // Output {}, {1}, {2}, {1, 2}, {2, 2}, {1, 2, 2}
 
+// Backtracking
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
