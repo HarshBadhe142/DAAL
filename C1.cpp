@@ -6,6 +6,8 @@
 // Input sum = 4, coins[] = {1, 2, 3}
 // Output 4
 
+// Recursion
+
 #include <bits/stdc++.h>
 using namespace std;
 

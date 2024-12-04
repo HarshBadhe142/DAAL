@@ -7,6 +7,8 @@
 // ii) A person cannot visit another shop if its timing collide with it
 // Input: S[] = {1, 8, 3, 2, 6}, E[] = {5, 10, 6, 5, 9}, K = 2 Output: 4
 
+// Activity Selection and Sorting (Greedy Technique)
+
 #include <iostream>
 #include <algorithm>
 #include <set>
